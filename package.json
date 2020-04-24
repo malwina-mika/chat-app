@@ -1,0 +1,11 @@
+{
+  "name": "Chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:malwina-mika/chat-app.git"
+  },
+  "author": "Malwina8 <48411653+Malwina8@users.noreply.github.com>",
+  "license": "MIT"
+}
